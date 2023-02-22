@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetHashCodeEEquals", "GetHashCodeEEquals\GetHashCodeEEquals.csproj", "{B04FE0C3-E8D7-41B0-A593-514E5FA96E75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B04FE0C3-E8D7-41B0-A593-514E5FA96E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B04FE0C3-E8D7-41B0-A593-514E5FA96E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B04FE0C3-E8D7-41B0-A593-514E5FA96E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B04FE0C3-E8D7-41B0-A593-514E5FA96E75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E56A311-757A-4A4B-9174-70BE40366653}
+	EndGlobalSection
+EndGlobal
